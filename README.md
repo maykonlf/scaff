@@ -1,0 +1,2 @@
+# scaff
+Scaffold cli tool
